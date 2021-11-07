@@ -1,0 +1,7 @@
+.lists {
+  width: 50%;
+  min-width: 280px;
+  margin: 0 auto;
+  padding: 15px 0 0;
+  list-style-type: none;
+}
